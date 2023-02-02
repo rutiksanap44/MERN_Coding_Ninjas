@@ -1,0 +1,11 @@
+{
+  "name": "first-server-setup-demo",
+  "version": "1.0.0",
+  "description": "\"Setting up first server with node js\"",
+  "main": "serverFirst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Rutik Devram Sanap\"",
+  "license": "ISC"
+}
